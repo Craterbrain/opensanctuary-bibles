@@ -1,0 +1,389 @@
+{
+ "_comment": "Only translations ebible.org's translations.csv marks public domain and redistributable; convert.py re-checks that.",
+ "bibles": [
+  {
+   "id": "eng-kjv2006",
+   "abbreviation": "KJV",
+   "language": "English",
+   "name": "King James Version (Authorized Version)"
+  },
+  {
+   "id": "eng-kjv",
+   "abbreviation": "KJVA",
+   "language": "English",
+   "name": "King James Version with Apocrypha"
+  },
+  {
+   "id": "engkjvcpb",
+   "abbreviation": "KJVCPB",
+   "language": "English",
+   "name": "King James Version, Cambridge Paragraph Bible"
+  },
+  {
+   "id": "engwebp",
+   "abbreviation": "WEB",
+   "language": "English",
+   "name": "World English Bible"
+  },
+  {
+   "id": "eng-web",
+   "abbreviation": "WEBC",
+   "language": "English",
+   "name": "World English Bible, Classic (with Deuterocanon)"
+  },
+  {
+   "id": "engwebu",
+   "abbreviation": "WEBU",
+   "language": "English",
+   "name": "World English Bible, Updated (with Deuterocanon)"
+  },
+  {
+   "id": "engwebpb",
+   "abbreviation": "WEBBE",
+   "language": "English",
+   "name": "World English Bible, British Edition"
+  },
+  {
+   "id": "eng-webbe",
+   "abbreviation": "WEBBE-DC",
+   "language": "English",
+   "name": "World English Bible, British Edition (with Deuterocanon)"
+  },
+  {
+   "id": "eng-asv",
+   "abbreviation": "ASV",
+   "language": "English",
+   "name": "American Standard Version (1901)"
+  },
+  {
+   "id": "engasvbt",
+   "abbreviation": "ASVBT",
+   "language": "English",
+   "name": "American Standard Version, Byzantine Text"
+  },
+  {
+   "id": "engbsb",
+   "abbreviation": "BSB",
+   "language": "English",
+   "name": "Berean Standard Bible"
+  },
+  {
+   "id": "engmsb",
+   "abbreviation": "MSB",
+   "language": "English",
+   "name": "Majority Standard Bible"
+  },
+  {
+   "id": "engBBE",
+   "abbreviation": "BBE",
+   "language": "English",
+   "name": "Bible in Basic English"
+  },
+  {
+   "id": "engDBY",
+   "abbreviation": "DBY",
+   "language": "English",
+   "name": "Darby Translation (1890)"
+  },
+  {
+   "id": "engDRA",
+   "abbreviation": "DRB",
+   "language": "English",
+   "name": "Douay-Rheims Bible (1899)"
+  },
+  {
+   "id": "enggnv",
+   "abbreviation": "GNV",
+   "language": "English",
+   "name": "Geneva Bible (1599)"
+  },
+  {
+   "id": "eng-rv",
+   "abbreviation": "RV",
+   "language": "English",
+   "name": "Revised Version with Apocrypha (1895)"
+  },
+  {
+   "id": "engwebster",
+   "abbreviation": "WBT",
+   "language": "English",
+   "name": "Noah Webster Bible (1833)"
+  },
+  {
+   "id": "engwmb",
+   "abbreviation": "WMB",
+   "language": "English",
+   "name": "World Messianic Bible"
+  },
+  {
+   "id": "engwmbb",
+   "abbreviation": "WMBBE",
+   "language": "English",
+   "name": "World Messianic Bible, British Edition"
+  },
+  {
+   "id": "engylt",
+   "abbreviation": "YLT",
+   "language": "English",
+   "name": "Young's Literal Translation (1898)"
+  },
+  {
+   "id": "spaRV1909",
+   "abbreviation": "RV1909",
+   "language": "Spanish",
+   "name": "Reina-Valera (1909)"
+  },
+  {
+   "id": "spablm",
+   "abbreviation": "SBLM",
+   "language": "Spanish",
+   "name": "Santa Biblia Libre para el Mundo"
+  },
+  {
+   "id": "spabll",
+   "abbreviation": "SBLL",
+   "language": "Spanish",
+   "name": "Santa Biblia Libre Latinoamericano"
+  },
+  {
+   "id": "spabes",
+   "abbreviation": "BES",
+   "language": "Spanish",
+   "name": "La Biblia en Español Sencillo (2026)"
+  },
+  {
+   "id": "fraLSG",
+   "abbreviation": "LSG",
+   "language": "French",
+   "name": "Louis Segond (1910)"
+  },
+  {
+   "id": "frajnd",
+   "abbreviation": "JND",
+   "language": "French",
+   "name": "Bible J.N. Darby"
+  },
+  {
+   "id": "fra_fob",
+   "abbreviation": "OST",
+   "language": "French",
+   "name": "Ostervald Bible"
+  },
+  {
+   "id": "frasbl",
+   "abbreviation": "SBLF",
+   "language": "French",
+   "name": "Sainte Bible Libre pour le Monde"
+  },
+  {
+   "id": "deu1912",
+   "abbreviation": "LUT",
+   "language": "German",
+   "name": "Luther Bible (1912)"
+  },
+  {
+   "id": "deuelo",
+   "abbreviation": "ELB1905",
+   "language": "German",
+   "name": "Unrevised Elberfelder Bible (1905)"
+  },
+  {
+   "id": "deutkw",
+   "abbreviation": "TKW",
+   "language": "German",
+   "name": "Textbibel (Kautzsch and Weizsäcker, 1906)"
+  },
+  {
+   "id": "ita1885",
+   "abbreviation": "DIO",
+   "language": "Italian",
+   "name": "Diodati Bible (1885)"
+  },
+  {
+   "id": "ita1927",
+   "abbreviation": "RIV",
+   "language": "Italian",
+   "name": "Riveduta Bible (1927)"
+  },
+  {
+   "id": "porbrbsl",
+   "abbreviation": "BPM",
+   "language": "Portuguese",
+   "name": "Bíblia Portuguesa Mundial (World Portuguese Bible)"
+  },
+  {
+   "id": "nld",
+   "abbreviation": "SV1917",
+   "language": "Dutch",
+   "name": "Dutch Bible (1917)"
+  },
+  {
+   "id": "latVUC",
+   "abbreviation": "CLE",
+   "language": "Latin",
+   "name": "Clementine Vulgate (1598)"
+  },
+  {
+   "id": "russyn",
+   "abbreviation": "SYNOD",
+   "language": "Russian",
+   "name": "Russian Synodal Bible"
+  },
+  {
+   "id": "ukr1871",
+   "abbreviation": "UKR1871",
+   "language": "Ukrainian",
+   "name": "Ukrainian Bible (Kulish and Pulyui)"
+  },
+  {
+   "id": "ukrfb",
+   "abbreviation": "UKRFB",
+   "language": "Ukrainian",
+   "name": "Ukrainian Freedom Bible"
+  },
+  {
+   "id": "ces1613",
+   "abbreviation": "KRAL1613",
+   "language": "Czech",
+   "name": "Czech Bible Kralice (1613)"
+  },
+  {
+   "id": "srp1865",
+   "abbreviation": "SRP1865L",
+   "language": "Serbian",
+   "name": "Serbian Bible, Karadžić (Latin script)"
+  },
+  {
+   "id": "srp1868",
+   "abbreviation": "SRP1868C",
+   "language": "Serbian",
+   "name": "Serbian Bible, Daničić-Karadžić (Cyrillic script)"
+  },
+  {
+   "id": "ron1924",
+   "abbreviation": "RO1924",
+   "language": "Romanian",
+   "name": "Romanian Bible, Cornilescu (1924, Cyrillic script)"
+  },
+  {
+   "id": "cmn-cu89s",
+   "abbreviation": "CUVS",
+   "language": "Chinese",
+   "name": "Chinese Union Version (Simplified)"
+  },
+  {
+   "id": "cmn-cu89t",
+   "abbreviation": "CUVT",
+   "language": "Chinese",
+   "name": "Chinese Union Version (Traditional)"
+  },
+  {
+   "id": "cmnswcb",
+   "abbreviation": "WCB",
+   "language": "Chinese",
+   "name": "World Chinese Bible (Mandarin)"
+  },
+  {
+   "id": "jpnm",
+   "abbreviation": "JFB",
+   "language": "Japanese",
+   "name": "Japanese Freedom Bible"
+  },
+  {
+   "id": "kor",
+   "abbreviation": "KOR1910",
+   "language": "Korean",
+   "name": "Korean Bible (1910)"
+  },
+  {
+   "id": "thafb",
+   "abbreviation": "THFB",
+   "language": "Thai",
+   "name": "Thai Freedom Bible"
+  },
+  {
+   "id": "vie1934",
+   "abbreviation": "VIE1934",
+   "language": "Vietnamese",
+   "name": "Vietnamese Bible (1934)"
+  },
+  {
+   "id": "arb-vd",
+   "abbreviation": "AVD",
+   "language": "Arabic",
+   "name": "Arabic Van Dyck Bible"
+  },
+  {
+   "id": "heb",
+   "abbreviation": "HEBMOD",
+   "language": "Hebrew",
+   "name": "Modern Hebrew Bible"
+  },
+  {
+   "id": "pesOPV",
+   "abbreviation": "OPV",
+   "language": "Persian",
+   "name": "Old Persian Version"
+  },
+  {
+   "id": "hat",
+   "abbreviation": "HAT1985",
+   "language": "Haitian Creole",
+   "name": "Haitian Creole Bible (1985)"
+  },
+  {
+   "id": "haw1868",
+   "abbreviation": "HAW1868",
+   "language": "Hawaiian",
+   "name": "Baibala Hemolele (Hawaiian Bible, 1868)"
+  },
+  {
+   "id": "ton",
+   "abbreviation": "TON",
+   "language": "Tongan",
+   "name": "Tongan Bible (Revised West Version)"
+  },
+  {
+   "id": "kos",
+   "abbreviation": "KOS",
+   "language": "Kosraean",
+   "name": "Kosraean Bible"
+  },
+  {
+   "id": "epo",
+   "abbreviation": "EPO1910",
+   "language": "Esperanto",
+   "name": "Esperanto Bible (1910)"
+  },
+  {
+   "id": "mya",
+   "abbreviation": "MYACL",
+   "language": "Burmese",
+   "name": "Burmese Common Language Bible"
+  },
+  {
+   "id": "myajvb",
+   "abbreviation": "MYAJVB",
+   "language": "Burmese",
+   "name": "Judson Burmese Bible"
+  },
+  {
+   "id": "hltmcsb",
+   "abbreviation": "MCSB",
+   "language": "Matupi Chin",
+   "name": "Matupi Chin Standard Bible"
+  },
+  {
+   "id": "hlt",
+   "abbreviation": "MCSBS",
+   "language": "Matupi Chin",
+   "name": "Matupi Chin Standard Bible (with Strong's numbers)"
+  },
+  {
+   "id": "cekak",
+   "abbreviation": "ASANG",
+   "language": "Khumi Chin",
+   "name": "Asang Khongca Bible (Eastern Khumi Chin, 2019)"
+  }
+ ]
+}

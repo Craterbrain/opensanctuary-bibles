@@ -1,0 +1,642 @@
+{
+ "arb-vd": {
+  "books": 66,
+  "bytes": 7655664,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "a306f224c763e97674e760efd6dfe59ef38c24820910cd8d2959c7e67c2c1f2b",
+  "source_sha256": "8c3b212750ca37850c94d53ebdf8a5919fc5c5d4d0a986de17f900ba84ac6e80",
+  "update_date": "2020-08-03",
+  "verses": 31104
+ },
+ "cekak": {
+  "books": 66,
+  "bytes": 4753885,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "758ad2d69d4b8af3518de3cb411cd3fe36d6277a720412321120b843f0cf87f7",
+  "source_sha256": "112bad702b0f71c46ff1d6b25d0792274f664a2dae872361f7d422f0f1a348e1",
+  "update_date": "2020-09-24",
+  "verses": 31075
+ },
+ "ces1613": {
+  "books": 66,
+  "bytes": 4107067,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "2075e31a589e9838cdc370058ffe2a961375196aa6e4a2d38e4847a85c80745c",
+  "source_sha256": "89ba7697833042e8bffa322b91b883a882d70f7111899022c1efe028df63ac4d",
+  "update_date": "2023-10-20",
+  "verses": 31172
+ },
+ "cmn-cu89s": {
+  "books": 66,
+  "bytes": 3454131,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "c1b4b8933fc2fc41d308baddeab8a3c822aa8944c5475f1413d569053de85a4f",
+  "source_sha256": "76de022a41830225c715d1d0b61f29dc26915942f36ae0f20442e67a896686d4",
+  "update_date": "2021-10-15",
+  "verses": 31021
+ },
+ "cmn-cu89t": {
+  "books": 66,
+  "bytes": 3463802,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "aaadf1e7052e3d7fb0ab491394c033c13b37321ee9e5097ea7faaaf026269384",
+  "source_sha256": "11016e4e8879d78dc5952ae3f99faf49be8aa095fd9ad67e582e392c09c5e23a",
+  "update_date": "2024-12-30",
+  "verses": 31021
+ },
+ "cmnswcb": {
+  "books": 66,
+  "bytes": 3692497,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "764ab9664c5a6e4944e55c2552d0c9fc8548a9044f6f6d305f849be4c2402e28",
+  "source_sha256": "726e35ed9bdc76a8c20ddf149c0b8d393b016f00253d3db39c973756a5657b8c",
+  "update_date": "2026-09-07",
+  "verses": 31091
+ },
+ "deu1912": {
+  "books": 66,
+  "bytes": 4308209,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "4f6e691994520b25659f81fe6e8fe083ef545ede9faf81118ecc221a18b34a79",
+  "source_sha256": "535478bf63ac7b163cb1e79d828cf12df7d76fbc11e56ee05f32a5421e173efc",
+  "update_date": "2025-12-29",
+  "verses": 31102
+ },
+ "deuelo": {
+  "books": 66,
+  "bytes": 4549820,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "57cb26b31a166ea1b1d77f11aba4073faaee1623f9abe26c1455a4e22d7a596c",
+  "source_sha256": "e5bacf918261adc5c2a4b9e387dc1f2fdc71c564bf2c819b2d91a2ec629b52e1",
+  "update_date": "2023-09-19",
+  "verses": 31101
+ },
+ "deutkw": {
+  "books": 66,
+  "bytes": 4538571,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "da4a912e0557e45ad7e3b4664e62cd775444bb133e7ee6048aee991b9288ff8e",
+  "source_sha256": "b3127b07f05af0ae926d52d3b7df2dee79237c0318eaeb1846c8b170a9d1bbcc",
+  "update_date": "2025-08-30",
+  "verses": 31157
+ },
+ "eng-asv": {
+  "books": 66,
+  "bytes": 4362029,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "263ca2c25728b5229b276cec66a380089afa8018269f799323ad9ffbc701049d",
+  "source_sha256": "5e385a1a89887849cb07c88ddf4df37708e0fa901b1f1b7f0b8204c153f0a901",
+  "update_date": "2026-10-20",
+  "verses": 31086
+ },
+ "eng-kjv": {
+  "books": 80,
+  "bytes": 5153481,
+  "chapters": 1362,
+  "deuterocanon": 14,
+  "sha256": "187b35eba3ee9dcc03e8595c4a12cd314e22234433e72afb51a5c582ffd97a1c",
+  "source_sha256": "67561758cf58d9e767e89226a99171dba722579157d3894767c2f27538bcb38e",
+  "update_date": "2026-09-26",
+  "verses": 36822
+ },
+ "eng-kjv2006": {
+  "books": 66,
+  "bytes": 4358592,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "9ae5cb76239d5ad5945650abb2f9d235e78f6cf92e6be9bf6bd5d6b64829aa57",
+  "source_sha256": "bf907642b9a37530ebd9cedf08273f62a7c2140e414205fd4b8208be952b4b14",
+  "update_date": "2026-09-26",
+  "verses": 31102
+ },
+ "eng-rv": {
+  "books": 80,
+  "bytes": 5181618,
+  "chapters": 1362,
+  "deuterocanon": 14,
+  "sha256": "b1c10baac40d443d2d4b8d589b7b3b722bc6ce3221246072729efe797732e9ac",
+  "source_sha256": "8eee566b1e4a6a77363221b450bb00fb2f7a9afb98dd6981f094e6c24a6040d5",
+  "update_date": "2026-10-20",
+  "verses": 36836
+ },
+ "eng-web": {
+  "books": 81,
+  "bytes": 5213887,
+  "chapters": 1402,
+  "deuterocanon": 15,
+  "sha256": "05f657f09bf580b6da2b0a6b72a3a78cf2860f731e90f72f14485f4f15ffe8fd",
+  "source_sha256": "1298c07ccd62fe8ebab6d0cc94ab75a88dd95272d7fe618faeb7a8f6d632c6e0",
+  "update_date": "2026-10-20",
+  "verses": 38029
+ },
+ "eng-webbe": {
+  "books": 81,
+  "bytes": 5231247,
+  "chapters": 1402,
+  "deuterocanon": 15,
+  "sha256": "7f9d3d64cae88aaffa53c9738de3e6675a1bc25afb88be518a5d0a4118c29d87",
+  "source_sha256": "54ec9e6b277c95c20ac173927fa7a976f37d86f0c0a54f132ba9f6666d93b6f6",
+  "update_date": "2026-10-20",
+  "verses": 38029
+ },
+ "engBBE": {
+  "books": 66,
+  "bytes": 4386329,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "9704a3daabf45043b5f0c5a65a84fed37267f2124afddc7ad9235c9ee8b89306",
+  "source_sha256": "08d326bc9ea5daaa168abfbc26cc37525ed9f7d74b60666252f4e5939b6bc04c",
+  "update_date": "2020-04-17",
+  "verses": 31067
+ },
+ "engDBY": {
+  "books": 66,
+  "bytes": 4319607,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "88220a09a51f0039abc6b198cdc9b49083826b2e38a580371148dce8d921c485",
+  "source_sha256": "9593bb6db5d2d1de66f37d9470fb86bfd13a38f3e5caead225d59b3b32c5b6b5",
+  "update_date": "2019-11-15",
+  "verses": 31099
+ },
+ "engDRA": {
+  "books": 73,
+  "bytes": 4897276,
+  "chapters": 1334,
+  "deuterocanon": 7,
+  "sha256": "6d9fb6eef75786c41ef0c8a84cad7439d77ea7c1062e524584fca48a55184815",
+  "source_sha256": "2f991375420fcbff9a8000912920a8d4c1b665d766fdd23f22c9d433e53444eb",
+  "update_date": "2022-11-03",
+  "verses": 35811
+ },
+ "engasvbt": {
+  "books": 84,
+  "bytes": 5325655,
+  "chapters": 1405,
+  "deuterocanon": 18,
+  "sha256": "674e5666379f95d4c23a6e5154da9ed6b8c28a5183d6db72898fdec588488ef8",
+  "source_sha256": "70a357239f3c0e0eecc8f1312d7f86eba647e4674deb338a3fd4b1d7437a917f",
+  "update_date": "2026-10-20",
+  "verses": 37761
+ },
+ "engbsb": {
+  "books": 66,
+  "bytes": 4094489,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "905cc9f8d23fae0869cde69f64fb22e8f353e2603768908e3629d2187b8e2966",
+  "source_sha256": "ce8bb27e62ab433e9eae460b65bf10710fabfd74017a9535aa8904343866e257",
+  "update_date": "2026-10-20",
+  "verses": 31086
+ },
+ "enggnv": {
+  "books": 66,
+  "bytes": 4401428,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "4c091984514bf87b4f74e830f1b6b871045d780028f42b578845545b658c0de5",
+  "source_sha256": "9c0afd6a9848aa886810ae0d360e50a3308a1b50d6a1aec03941f5e6ffdcb62c",
+  "update_date": "2024-03-16",
+  "verses": 31090
+ },
+ "engkjvcpb": {
+  "books": 80,
+  "bytes": 5156249,
+  "chapters": 1361,
+  "deuterocanon": 14,
+  "sha256": "31f6d27fd6de327b219b45309b2d1ff0351ed86e7cd250646d6ad7e66fa604f2",
+  "source_sha256": "812a92d5ea54308632f2586ee6f2a38a114c33b4823f3c011d030f15fdc20459",
+  "update_date": "2026-09-26",
+  "verses": 36821
+ },
+ "engmsb": {
+  "books": 66,
+  "bytes": 4108288,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "689ec81bdac5b4438c3df06175664ae492300c56d701e9dca759537b6e96769f",
+  "source_sha256": "55f5ef0269782a892cdc13c479e5ed5df8609135de1dba8309ac30386e154d84",
+  "update_date": "2026-10-20",
+  "verses": 31098
+ },
+ "engwebp": {
+  "books": 66,
+  "bytes": 4247828,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "4c0be97a87d3213bb6b0d1e61f5bcc2cea413a99d577839eec50a655eb946525",
+  "source_sha256": "d2a7c9640820003d8ed475ce6d92cc990b0447fe96ce72fd0df17c0dac9d95fe",
+  "update_date": "2026-10-20",
+  "verses": 31098
+ },
+ "engwebpb": {
+  "books": 66,
+  "bytes": 4252894,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "b46ab49e0f2f3504c71b4070d9325847e10d1f566f05eba42e5e09827f6a4dc5",
+  "source_sha256": "cdbcc8174cb32522336fac99c440f59f9fc1a840f1cce123facf2a705ffc610e",
+  "update_date": "2026-10-17",
+  "verses": 31098
+ },
+ "engwebster": {
+  "books": 66,
+  "bytes": 4330787,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "491861ab374cecb8a125a51d6a897317e1328954855528911b604d21d55bd7c0",
+  "source_sha256": "f84ad11f331ac7cd644b0a0e6045ed96afbca39d3648ce516810ab91a4729da3",
+  "update_date": "2024-08-01",
+  "verses": 31102
+ },
+ "engwebu": {
+  "books": 81,
+  "bytes": 5224820,
+  "chapters": 1402,
+  "deuterocanon": 15,
+  "sha256": "adc2e8e5973e52697ac2036427b866b64428dc3da906e82bf1e58c5a2a0c87f4",
+  "source_sha256": "27e550351da84ab5dcbcbbe8f9cfd6fb82d3cf4549b4aa9d8a6fb360327c432c",
+  "update_date": "2026-10-20",
+  "verses": 38029
+ },
+ "engwmb": {
+  "books": 66,
+  "bytes": 4251106,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "5af45ec6c7ea4d9bd9bb85046dd691dd86b47b8eb0df5c32211abc8b45acadb0",
+  "source_sha256": "bf993638c1a512fdae91a10e0bc854a190664d5606aa7835ddcc63e3de914c24",
+  "update_date": "2026-10-17",
+  "verses": 31098
+ },
+ "engwmbb": {
+  "books": 66,
+  "bytes": 4256172,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "1f653b2902fe28d861564505ef43d68dda180efe6d2badb784607a0f92c40629",
+  "source_sha256": "1f29ba511fe9e0a8eb5162a927c0a0a8c0dfcc6bcbb501bc6e2b6215b4f34f89",
+  "update_date": "2026-10-13",
+  "verses": 31098
+ },
+ "engylt": {
+  "books": 66,
+  "bytes": 4390144,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "61ae3d4301f7daa51bc72b4c8e5faf5cb7174b6d1a76563d1ec7a77eca31ea7b",
+  "source_sha256": "5f91332f6e97c7925d3266f9c321a242f44a1dcec47541582f137a575d9df181",
+  "update_date": "2019-10-20",
+  "verses": 31102
+ },
+ "epo": {
+  "books": 66,
+  "bytes": 4065228,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "e257434e358480d9ef08a970615795ff9e6f21c93e6e6eb636a64d069513df0f",
+  "source_sha256": "a7a4bb721d51aa8458f070a77f8ba963042823768df5f02dc1a11b2f4670bc23",
+  "update_date": "2020-02-13",
+  "verses": 31102
+ },
+ "fraLSG": {
+  "books": 66,
+  "bytes": 4530654,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "293cf3540fd0f4d433ff19ba5222352029b279d43332ea3be73c8f8c70c089df",
+  "source_sha256": "95dcf4a7ca9992bc829baddbc6f5ee8e1d96e34dac099e53cbfac5adb60ef250",
+  "update_date": "2026-10-20",
+  "verses": 31170
+ },
+ "fra_fob": {
+  "books": 66,
+  "bytes": 4508888,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "dd30bac330910752d97839ac2fbdbb7bd336c95df5bca9fde76cdb96413dd425",
+  "source_sha256": "fad7b87c182a724054b80190cd21af380febb50032645e9ba3b0920f5e37dc69",
+  "update_date": "2026-10-20",
+  "verses": 31107
+ },
+ "frajnd": {
+  "books": 66,
+  "bytes": 4670627,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "c2ab40e78f9a7221042de2ea195a48a4cce5d7668043183fff448e40c816e3dc",
+  "source_sha256": "8f9388d32ba76525863da0ecaefedd7e758b042ad59bcec27a4ddb0a51a68e5a",
+  "update_date": "2025-05-02",
+  "verses": 31167
+ },
+ "frasbl": {
+  "books": 81,
+  "bytes": 5596985,
+  "chapters": 1403,
+  "deuterocanon": 15,
+  "sha256": "baeb60c9f6e4ce28e46c163fdd63bbe5f57d0c2cd74b0916f39617180b25bf0d",
+  "source_sha256": "2a151a230b240100a3fb936d7ae2080db0bfef420d8d0e6fe5e4e50b548b121d",
+  "update_date": "2026-10-20",
+  "verses": 38036
+ },
+ "hat": {
+  "books": 66,
+  "bytes": 4564922,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "290d905f5ab04af8ab9f58fca145bd1d2aca4b55866260353096ed05d5b3ca0b",
+  "source_sha256": "9bc7bad9ca67e7550c05c14ba9bfc4d5eb8eeffbe1e47fb74de56e367eeaa489",
+  "update_date": "2020-03-10",
+  "verses": 31095
+ },
+ "haw1868": {
+  "books": 66,
+  "bytes": 4656361,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "d5ae384d0f6663214c404b43e2bae3f0bd28f5f94777616f9bb535891f6e39b7",
+  "source_sha256": "cbab2cc8b1501f31d50b034b0f9f5d3256ee1894c626a0918c44051847914648",
+  "update_date": "2015-11-10",
+  "verses": 31102
+ },
+ "heb": {
+  "books": 66,
+  "bytes": 3946253,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "b56f03b174929f109af6ed68378f1f8cd0ebdcbe141e92394952872fbe903274",
+  "source_sha256": "1c19a110b7cfd1ec63aef06ba89e52e2117c80f18860a5382170a5eedbbd1b11",
+  "update_date": "2022-06-14",
+  "verses": 31092
+ },
+ "hlt": {
+  "books": 66,
+  "bytes": 4269427,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "640091f9862b3d56cca950783c56fb04e4de8606c7360db9e3df89add837d56e",
+  "source_sha256": "2b74f11db77651b305b624da68c5627892c654709111f9e6005ea2370e649bda",
+  "update_date": "2026-07-16",
+  "verses": 31104
+ },
+ "hltmcsb": {
+  "books": 83,
+  "bytes": 5188650,
+  "chapters": 1391,
+  "deuterocanon": 17,
+  "sha256": "1805abc8a712bf4f8aca309adce6bc80dffbec990044bd75e17028c9ac94774a",
+  "source_sha256": "055628e23943284a92a5ee660498a6d6480de46a63f44a3d668d5ced72c6d8cf",
+  "update_date": "2026-10-19",
+  "verses": 37667
+ },
+ "ita1885": {
+  "books": 66,
+  "bytes": 4484684,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "9c56c2a9d76b6d9ff23d495bcbe5d7de08483de4f54d917f6907b9654b3164e2",
+  "source_sha256": "615abe93f454a31fb8e3546794c6df65b55c03e17d95f23b19d58fc3509cca54",
+  "update_date": "2025-05-03",
+  "verses": 31095
+ },
+ "ita1927": {
+  "books": 66,
+  "bytes": 4402265,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "987a0cda8aa5d871ab9410b80afaea4ac823ef82a0f5e4e29973bb607a5e4212",
+  "source_sha256": "fc10100fae359d3311a00261eb49019e0080441f16198ce4fabe7b1c7935d474",
+  "update_date": "2019-12-17",
+  "verses": 31102
+ },
+ "jpnm": {
+  "books": 66,
+  "bytes": 5309056,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "8fb2f1c67486b662d12844a36ec17551d318f9f6196f005c77eb2b30dbc35196",
+  "source_sha256": "b8b91e318b0da64beb429817083d11811927ef7df287738f78112d52ddde1650",
+  "update_date": "2026-08-19",
+  "verses": 31098
+ },
+ "kor": {
+  "books": 66,
+  "bytes": 4653654,
+  "chapters": 1188,
+  "deuterocanon": 0,
+  "sha256": "b26d122525a390cda6c2dbd898ac8c096afca97da7f81a130b1408bd19f9403e",
+  "source_sha256": "40d37319b9ae541636d6d90a0cd8bf7dac3894f1e091e26efb632f41648fff4e",
+  "update_date": "2024-11-05",
+  "verses": 30991
+ },
+ "kos": {
+  "books": 66,
+  "bytes": 4274182,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "26569748b30b6ec6d220c65b71d14cc79e1dbebe9c8ad8c54adb1da4b42db2b9",
+  "source_sha256": "894bb3568909a5be50908389b8aa6546cc0599043bf9a96b408658dabbabea0f",
+  "update_date": "2025-08-30",
+  "verses": 30945
+ },
+ "latVUC": {
+  "books": 73,
+  "bytes": 4292989,
+  "chapters": 1334,
+  "deuterocanon": 7,
+  "sha256": "af84ac47731cff7a8f6c9eb72b151a23abb024fcf67416e90c1a0668b12e94de",
+  "source_sha256": "439d1789e021e3209125270dd2e3476f9ff7e99fea2a0349778655e4e40b7826",
+  "update_date": "2014-08-23",
+  "verses": 35809
+ },
+ "mya": {
+  "books": 66,
+  "bytes": 17070286,
+  "chapters": 1188,
+  "deuterocanon": 0,
+  "sha256": "dbcfdc1a0133b4f7c0b99f779a1c7d350e5a4d7717ac4156606dfb3dc82eb16a",
+  "source_sha256": "04251e4190686c38e2c36cb11c801ab60a64970098f8e2ea0ced33cf7cbbf932",
+  "update_date": "2014-03-30",
+  "verses": 29768
+ },
+ "myajvb": {
+  "books": 66,
+  "bytes": 12258529,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "38ff686c7dd00c799e6829f62718235fd2f138a6fe094a061c0ec9846c71e6e7",
+  "source_sha256": "ff52ac4a98ad52f1357280b87c7a3022815c10ed57d98fdd4ea6377ed0c50a56",
+  "update_date": "2025-10-20",
+  "verses": 30979
+ },
+ "nld": {
+  "books": 66,
+  "bytes": 4548924,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "5ab3d1c952dd735c82b81874c562744c915a281b2002a4f20d0234cca5486fd4",
+  "source_sha256": "8c5b386a06c3a52d910fe0796797e1348052232edb1161692092a96af67a8766",
+  "update_date": "2023-01-23",
+  "verses": 31102
+ },
+ "pesOPV": {
+  "books": 66,
+  "bytes": 5900740,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "72413f3d2a825b937f5c4119ed0c9f32fa3ba3cef85aafe78ef3e63d37e12607",
+  "source_sha256": "9d23a84331655df1bd1d674ce1031eb4291c74a71082f53a2f111eebe4a46739",
+  "update_date": "2015-04-21",
+  "verses": 31088
+ },
+ "porbrbsl": {
+  "books": 81,
+  "bytes": 5266836,
+  "chapters": 1402,
+  "deuterocanon": 15,
+  "sha256": "2e6a90b09225af707ffb3c6abebadec981ff1b4cce52af1652ac3803ce245aa6",
+  "source_sha256": "16375fb06fff9186a8db06353743fe8075dc77d976cc1629263dbb4497630749",
+  "update_date": "2026-10-08",
+  "verses": 38029
+ },
+ "ron1924": {
+  "books": 66,
+  "bytes": 7082477,
+  "chapters": 1188,
+  "deuterocanon": 0,
+  "sha256": "0e6a1fa8270af9f94eb1ff064c594cf059bd63fce01d540815b35dc9c20e9b10",
+  "source_sha256": "9d4dca0b5e4fc8e747f31aba350d63fba2cbc65ce0cf2d4d71ba530406b57f47",
+  "update_date": "2022-01-13",
+  "verses": 31045
+ },
+ "russyn": {
+  "books": 66,
+  "bytes": 6285876,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "2d1bd29be52b8236919af74e153beeb305f21aa3df5e8f8d6036f0ba64fff6ac",
+  "source_sha256": "25a4a49e51691a271bdb2b7effa4e58760dae2852bff66cc9900fd9dc9355776",
+  "update_date": "2022-11-25",
+  "verses": 31169
+ },
+ "spaRV1909": {
+  "books": 66,
+  "bytes": 4154969,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "96df7f73143433ef058a31d6c7b02807e226637654d8ad2f1e4d10af46542228",
+  "source_sha256": "b8c5f45ef19a6d26faa0844dedbb2c8aceefd8698f5ed1e070878f41715b1869",
+  "update_date": "2013-12-13",
+  "verses": 31084
+ },
+ "spabes": {
+  "books": 66,
+  "bytes": 4017504,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "09075404252cf9cd7c442e40cbbdc761e255d4de6e1a6a55b90c27f619c8497f",
+  "source_sha256": "6c2467976741cab87dec9ceac07857a60f7a5f1dc07224629a74a7b89a4c45d8",
+  "update_date": "2026-10-20",
+  "verses": 31101
+ },
+ "spabll": {
+  "books": 81,
+  "bytes": 5325448,
+  "chapters": 1402,
+  "deuterocanon": 15,
+  "sha256": "e36d162da28d073419f80c63c8ec94eff1001e8490b3d675fc155358b3c14ffa",
+  "source_sha256": "a8f0a5d2a00bcdb9f3162f65fb95870cf3fed73338851a1f5102022a20df5349",
+  "update_date": "2026-10-20",
+  "verses": 38029
+ },
+ "spablm": {
+  "books": 81,
+  "bytes": 5203696,
+  "chapters": 1402,
+  "deuterocanon": 15,
+  "sha256": "1d79b18d93440181dcb816937fe43bcca579f08b9cd47ef32100d710068770f9",
+  "source_sha256": "cb36d16aada4f1d4e5f35d6361b8548df9d8aad224ec62184940b58de056c14c",
+  "update_date": "2026-10-20",
+  "verses": 38029
+ },
+ "srp1865": {
+  "books": 66,
+  "bytes": 3504792,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "207717c1b3763639201220b520c4136beef2cf0460d8a1b55c3f188581fede1a",
+  "source_sha256": "825b4770475c14ae0b9fe6c03bebe377c514c7f3f122003f0d9d13277882e66c",
+  "update_date": "2026-01-03",
+  "verses": 31111
+ },
+ "srp1868": {
+  "books": 66,
+  "bytes": 5839977,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "d05dd1d97d7cf4fab02c3d3786a31792d2d0d6b8db01c910c06ab0fd3450b394",
+  "source_sha256": "8bf035e5c7504e36afbd75dd384a6e6350a099002b958d94406db3753b326c40",
+  "update_date": "2026-01-03",
+  "verses": 31111
+ },
+ "thafb": {
+  "books": 66,
+  "bytes": 11537938,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "73a458b20aa7262f3fa63bc0098b627f603dbd2f378feababb8439faacf755af",
+  "source_sha256": "e514a6df64be051ec85576795e09f8cde770158eadc2784451f94712c60e76cb",
+  "update_date": "2026-10-13",
+  "verses": 31098
+ },
+ "ton": {
+  "books": 66,
+  "bytes": 5485824,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "704ea8653c795b686e70bf8bf5341e2043ab4b74c29f88c86e7261916ba3a030",
+  "source_sha256": "8a4fdff0ebf7294b703c20ea3c20b806ed3d6bca811bcd2e95d5b66894e2a400",
+  "update_date": "2025-10-25",
+  "verses": 31102
+ },
+ "ukr1871": {
+  "books": 66,
+  "bytes": 6240796,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "33fa3f13814a2bb455af00edbc4cc7e4a1143b85f142077e211c1eb92d3274e8",
+  "source_sha256": "c91833136b07aa58085e0f86cdbde4698d0e2147a98c04cbfcc644405f38156c",
+  "update_date": "2025-01-31",
+  "verses": 31082
+ },
+ "ukrfb": {
+  "books": 66,
+  "bytes": 6240800,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "d675ac9fda3f97004f9054daf32ab9b6f65bac6dcbaad59a761da3a1a5f0c71e",
+  "source_sha256": "ff7d9d2756b31a35f524f752f73568811e06fbb11744e23a2429ca1e1c911408",
+  "update_date": "2025-02-05",
+  "verses": 31082
+ },
+ "vie1934": {
+  "books": 66,
+  "bytes": 5335517,
+  "chapters": 1189,
+  "deuterocanon": 0,
+  "sha256": "39c503502fbb89834d869a55226a3796d3657fd79f1722d21803f5bcb94e2ceb",
+  "source_sha256": "92a6422eed383d0c6806b4f338d4c9a395f0b7b75d8f85f3d0f1b3064d228684",
+  "update_date": "2022-06-09",
+  "verses": 31102
+ }
+}
