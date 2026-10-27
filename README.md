@@ -4,6 +4,8 @@ Public-domain Bible translations, converted into one simple JSON format, for [Op
 
 **64 translations in 30 languages** (see [BIBLES.md](BIBLES.md)), including the KJV, WEB, ASV, BSB, YLT, Darby, Douay-Rheims, Reina-Valera 1909, Louis Segond 1910, Luther 1912, the Synodal Bible and the Clementine Vulgate. Every text is public domain; each one's source and licence statement is in [NOTICE.md](NOTICE.md).
 
+**221 public-domain English hymns** with the evidence for each one (see [SONGS.md](SONGS.md)), in `songs/public-domain-hymns.json`. OpenSanctuary downloads them from its first-run wizard or Import dialog.
+
 ## Using it in OpenSanctuary
 
 Turn on the **Online Bibles** plugin (Settings → Plugins), open the **Scriptures** tab and pick *Online Bibles*: these translations are listed first, marked as from this repository. Install one and it is in your library for good; nothing is fetched while you run a service.
@@ -16,6 +18,8 @@ Turn on the **Online Bibles** plugin (Settings → Plugins), open the **Scriptur
 | `bibles/<id>.json` | One translation |
 | `BIBLES.md` / `NOTICE.md` | Human-readable list; per-translation sources and licence statements |
 | `scripts/convert.py` | Rebuilds everything from ebible.org (`scripts/selection.json` says which) |
+| `songs/public-domain-hymns.json` / `songs/catalog.json` | The hymn library (OpenSanctuary song format) and its count, size and `sha256` |
+| `scripts/validate_songs.py` | Checks the hymns against the rule in SONGS.md (CI runs it) |
 | `scripts/validate.py` | Checks the catalog against the files (CI runs it) |
 
 A Bible file is nested objects, book → chapter → verse → text:

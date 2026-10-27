@@ -1,0 +1,10 @@
+{
+ "format": 1,
+ "repository": "Craterbrain/opensanctuary-bibles",
+ "file": "songs/public-domain-hymns.json",
+ "songs": 221,
+ "bytes": 415705,
+ "sha256": "a25139cbcff3f6a526adf1aff3d71ff52a144162e7c67f66a7fcd3eddd50f705",
+ "license": "Public domain",
+ "rule": "SONGS.md"
+}
